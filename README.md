@@ -6,14 +6,14 @@
 <br /> -->
 
 I'm Victor Santaella, a Full Stack Developer 💻 from Spain.<br>
- Currently working as Front-End Developer [Kibana](https://www.elastic.co/kibana) 👷 on [@Wazuh](https://github.com/wazuh) 🦊. <br>
+ Currently working as Front-End Developer [Vue.js](https://vuejs.org/) 👷 on [Icired](https://iciredimpagados.com/) ⚖️. <br>
 Beside's programming, I enjoy traveling ✈️ and learning new stuff 🔧.
 
   <img align="right" alt="GIF" src="https://media.giphy.com/media/fJKG1UTK7k64w/source.gif" />
   
 **Talking about Personal Stuffs:**
 
-- 💻 I’m currently working on [Wazuh](https://wazuh.com/);
+- 💻 I’m currently working on [Icired](https://iciredimpagados.com/);
 - 🌱 I’m currently learning [Go](https://golang.org/) and [Vue 3](https://madewithvuejs.com/blog/vue-3-roundup); 
 - 👯 I’m looking to collaborate on some bigger frameworks like Vue or Vuetify.🤝;
 - 🤔 I’m looking for help with [Open Distro](https://opendistro.github.io/for-elasticsearch/) and [Endpoint Security](https://www.mcafee.com/enterprise/en-us/security-awareness/endpoint.html). 😭;
