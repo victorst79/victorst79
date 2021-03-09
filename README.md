@@ -6,20 +6,20 @@
 <br /> -->
 
 I'm Victor Santaella, a Full Stack Developer 💻 from Spain.<br>
- Currently working as Software Engineer 👷 on [BeJao](https://www.bejao.fit/) 🏋️. <br>
+ Currently working as Software Engineer 👷 on [Nazaries IT](https://www.nazaries.com/). <br>
 Beside's programming, I enjoy traveling ✈️ and learning new stuff 🔧.
 
   <img align="right" alt="GIF" src="https://media.giphy.com/media/fJKG1UTK7k64w/source.gif" />
   
 **Talking about Personal Stuffs:**
 
-- 💻 I’m currently working on [BeJao](https://www.bejao.fit/);
+- 💻 I’m currently working on [Nazaries IT](https://www.nazaries.com/);
 - 🌱 I’m currently learning [Mocha](https://mochajs.org/) and [Vue 3](https://madewithvuejs.com/blog/vue-3-roundup); 
 - 👯 I’m interested in participating in open source projects like ElasticSearch or frameworks like Vue.js.🤝;
 - 🤔 I’m looking for help with API Automation Testing and include [ELK Stack](https://www.elastic.co/es/what-is/elk-stack) in custom projects.😭;
 - 💬 Ask me about anything, I will help you with any problem related to my projects;
 - 📫 How to reach me: victorst79@gmail.com;
-- ⚡️ I started to develop a user management bot for Discord, if you want to collaborate with me, I invite you to come see the [project](https://github.com/victorst79/NaM-Bot)!🤝;
+- ⚡️ I started to develop a user management bot for Discord, if you want to collaborate with me, I invite you to come see the [project](https://github.com/victorst79/NaM-Bot)!;
 
 **Languages and Tools:**  
 
