@@ -14,7 +14,7 @@ Beside's programming, I enjoy traveling ✈️ and learning new stuff 🔧.
 **Talking about Personal Stuffs:**
 
 - 💻 I’m currently working on [Nazaries IT](https://www.nazaries.com/);
-- 🌱 I’m currently learning [Mocha](https://mochajs.org/) and [Vue 3](https://madewithvuejs.com/blog/vue-3-roundup); 
+- 🌱 I’m currently learning [Cypress](https://www.cypress.io/) and [Vue 3](https://madewithvuejs.com/blog/vue-3-roundup); 
 - 👯 I’m interested in participating in open source projects like ElasticSearch or frameworks like Vue.js.🤝;
 - 🤔 I’m looking for help with API Automation Testing and include [ELK Stack](https://www.elastic.co/es/what-is/elk-stack) in custom projects.😭;
 - 💬 Ask me about anything, I will help you with any problem related to my projects;
