@@ -6,14 +6,14 @@
 <br /> -->
 
 I'm Victor Santaella, a Full Stack Developer 💻 from Spain.<br>
- Currently working as Software Engineer 👷 on [Nazaries IT](https://www.nazaries.com/). <br>
+Currently working as Software Engineer 👷 on [Nazaries IT](https://www.nazaries.com/). <br>
 Beside's programming, I enjoy traveling ✈️ and learning new stuff 🔧.
 
   <img align="right" alt="GIF" src="https://media.giphy.com/media/fJKG1UTK7k64w/source.gif" />
   
 **Talking about Personal Stuffs:**
 
-- 💻 I’m currently working on [Nazaries IT](https://www.nazaries.com/);
+<!-- - 💻 I’m currently working on [Nazaries IT](https://www.nazaries.com/); -->
 - 🌱 I’m currently learning [Cypress](https://www.cypress.io/) and [Vue 3](https://madewithvuejs.com/blog/vue-3-roundup); 
 - 👯 I’m interested in participating in open source projects like ElasticSearch or frameworks like Vue.js.🤝;
 - 🤔 I’m looking for help with API Automation Testing and include [ELK Stack](https://www.elastic.co/es/what-is/elk-stack) in custom projects.😭;
