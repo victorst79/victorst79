@@ -6,7 +6,7 @@
 <br /> -->
 
 I'm Victor Santaella, a Full Stack Developer 💻 from Spain.<br>
-Currently working as Software Engineer 👷 on [Nazaries IT](https://www.nazaries.com/). <br>
+<!-- Currently working as Software Engineer 👷 on [Nazaries IT](https://www.nazaries.com/). <br> -->
 Beside's programming, I enjoy traveling ✈️ and learning new stuff 🔧.
 
   <img align="right" alt="GIF" src="https://media.giphy.com/media/fJKG1UTK7k64w/source.gif" />
